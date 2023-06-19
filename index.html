@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h1{text-align:initial; }
+        p1{position:relative; left: -360px; top: 150px; font-size: 250%;}
+        p2{position:relative; left: 250px; top: 110px;text-align:start;} 
+        body{background-image: url('static/moviebackground2.jpg'); background-repeat: no-repeat;background-size: 100% ;text-align:center;}
+        form{background-color: rgba(240, 165, 52, 0.5);max-width: 500px; margin: 50px auto; padding: 30px 20px; box-shadow: 2px 5px 10px rgba(0,0,0,0.5);}
+        .form-control{margin-bottom: -25px;}
+        .formcontrol label{display:block; }
+        .form-control input,.form-control select,.form-control textarea{border: 1px solid #777; border-radius: 2px;font-family: inherit; padding: 10px ; display: block; width: 95%}
+        p3{position:absolute; left: 660px; top: 520px;background-color: rgba(243, 209, 157, 0.5);max-width: 550px; }
+    </style>
+    <title>Movie Rating Pridictor</title>
+</head>
+<body>
+    <b><p1 style="color:rgb(36, 126, 138)";>Pridict Rating of Your Movie!!</p1></b>
+    <p2>
+    <form action="/predict" method="post">
+        <div class="form-control">
+            <label for="input1" >Runtime: </label>
+            <input type="text" id="input1" name="input1" placeholder="Enter Runtime of Movie"><br><br>
+        </div>
+        <div class="form-control">
+            <label for="input2">Votes: </label>
+            <input type="text" id="input2" name="input2" placeholder="Enter Number of Votes"><br><br>
+        </div>
+        <div class="form-control">
+            <label for="input3">Genre: </label>
+            <input type="text" id="input3" name="input3" placeholder="Enter Genre"><br><br>
+        </div>
+        <input type="submit" value="Submit">
+    </form>
+    </p2>
+    <p3>0.Action 1.Adult 2.Adventure 3.Animation 4.Biography 5.Comedy 6.Crime 7.Drama 8.Family 9.Film-Noir 10.Game-Show 11.History 12.Horror 13.Musical 14.Mystery 15.Reality-TV 16.Romance 17.Sci-Fi 18.Short 19.Sport 20.Thriller 21.War 22.Western 23.Fantasy 24.Music</p3>
+</body>
+</html>
