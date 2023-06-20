@@ -14,6 +14,8 @@ This project is aimed to show statical reprsentation of rating of movies. It als
 
 ## Output
 The first output of this project is Power BI Dashboard:
+![Screenshot (471)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/9148623b-23de-4257-a68a-c98ac392c5fe)
+The link that had been added below directe to a web page where user need to enter data:
 
 
 ## Procedure of Project
