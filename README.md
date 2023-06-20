@@ -12,6 +12,10 @@ This project is aimed to show statical reprsentation of rating of movies. It als
 
 **Film Evaluation**: Movie rating analysis can be used to evaluate the critical and commercial success of films. By comparing predicted ratings with actual ratings, you can assess the accuracy of the prediction models and identify areas for improvement. This evaluation can provide valuable feedback to filmmakers, critics, and industry professionals.
 
+## Output
+The first output of this project is Power BI Dashboard:
+
+
 ## Procedure of Project
 ## Downloading Dataset
 Download dataset of movie IMDb rating from https://www.kaggle.com/datasets/komalkhetlani/imdb-dataset .
