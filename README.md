@@ -15,7 +15,17 @@ This project is aimed to show statical reprsentation of rating of movies. It als
 ## Output
 The first output of this project is Power BI Dashboard:
 ![Screenshot (471)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/9148623b-23de-4257-a68a-c98ac392c5fe)
-The link that had been added below directe to a web page where user need to enter data:
+
+The link that had been added below direct to a web page where user need to enter data and click on submit button:
+![Screenshot (472)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/1b60c917-d9d8-4305-8173-307ad5b878ee)
+
+It proceeds to next page and show the Predicted Rating. On clicking the button given below we can proceed to next web page:
+![Screenshot (473)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/005e32dc-f86d-4b67-aab3-b80dd165df5a)
+
+On this page can compare real rating and predicted rating:
+![Screenshot (475)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/56daa107-fa36-4c66-931a-a1f5482082b4)
+
+![Screenshot (476)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/821c9b58-7451-4541-b589-89c16686d78c)
 
 
 ## Procedure of Project
