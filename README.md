@@ -1,8 +1,23 @@
 # Movie-Rating-Analysis-and-Pridiction
 This project is aimed to show statical reprsentation of rating of movies. It also contain a Machine Learning Model- "Movie Rating Predictor", which predicts the rating of movie by its runtime, number of votes and genre.
 
-#Downloading Dataset
+## Why Movie Rating Analysis??
+**Consumer Insights**: Movie ratings reflect the opinions and preferences of viewers. By analyzing and predicting movie ratings, you can gain valuable insights into audience preferences, tastes, and expectations. 
+
+**Business Decision-Making**: Movie rating analysis and prediction can aid in making informed business decisions related to film production, marketing, and distribution. By understanding the factors that influence movie ratings, filmmakers can make strategic choices in areas such as genre selection, casting, promotional campaigns, release timing, and distribution strategies.
+
+**Content Curation**: Streaming platforms and movie recommendation engines can benefit from movie rating analysis. By predicting user ratings based on historical data and user preferences, these platforms can provide personalized recommendations to their users, enhancing their overall viewing experience. This can lead to increased user engagement and customer satisfaction.
+
+**Market Research**: Movie rating analysis can serve as a valuable tool for market research. It can help identify trends, patterns, and correlations between various factors and movie ratings. 
+
+**Film Evaluation**: Movie rating analysis can be used to evaluate the critical and commercial success of films. By comparing predicted ratings with actual ratings, you can assess the accuracy of the prediction models and identify areas for improvement. This evaluation can provide valuable feedback to filmmakers, critics, and industry professionals.
+
+## Procedure of Project
+## Downloading Dataset
 Download dataset of movie IMDb rating from https://www.kaggle.com/datasets/komalkhetlani/imdb-dataset .
 
-#Preprocess Dataset and Apply Maching learning model
-Copy the code from "Preprocessing and ML Model" and run it to get final movie_rating_model.pkl file. Or u can directly download the given trained modeltrained
+## Preprocess Dataset and Apply Maching learning model
+Copy the code from "Preprocessing and ML Model" and run it to get final movie_rating_model.pkl file. Or you can directly download the given trained modeltrained named "Movie_rating_model.pkl".
+
+## Prepration of Webpage 
+Download given file names "app.py" and save it into folder 
